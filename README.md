@@ -8,8 +8,8 @@ A simple Shiny dashboard to predict sales based on advertising budgets using lin
 - Built using R, Shiny, ggplot2, and shinydashboard.
 
 ## Files
-- `app.R`: Main Shiny application script.
+- `MIS410.R`: Main Shiny application script.
 - `advertising.csv`: Dataset used for model training.
 
 ## How to Run
-Open `app.R` in RStudio and click “Run App”.
+Open `MIS410.R` in RStudio and click “Run App”.
